@@ -1,5 +1,5 @@
 # INTRODUCTION
-Hello! my name is Sagar.
-I have done my FSC from NCR-CET COllege
-Iam currently studying CS from FAST University
-Pretty excited for it.
+1. Hello! my name is Sagar.
+2. I have done my FSC from NCR-CET COllege
+3. Iam currently studying CS from FAST University
+4. Pretty excited for it.
